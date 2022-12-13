@@ -1,5 +1,4 @@
 # Tutorial-using-git
-
 ---------
 Khởi tạo git. trên folder máy tính: 
 git init
