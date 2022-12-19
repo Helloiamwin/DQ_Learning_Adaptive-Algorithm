@@ -19,3 +19,13 @@ Tạo liên kết lên github online
 Đẩy code lên github
 #git push -u origin master
 Những lần tiếp theo chỉ cần: git push
+
+
+git reset 
+git remote -v
+git pull --rebase
+git init
+git add -A
+git commit -m "Add your commit"
+git branch -M main
+git push origin main --force
