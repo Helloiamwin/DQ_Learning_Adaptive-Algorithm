@@ -18,6 +18,9 @@ You could find my trained model at **trained_models/chrome_dino.pth**
 * **cv2**
 * **pytorch** 
 * **numpy**
+## Video demo
+
+https://github.com/Helloiamwin/DQ_Learning_Adaptive-Algorithm/assets/79388309/4d3a7718-dd40-4b36-8d12-ff5bc7bc82a3
 
 ## Reference
 * https://github.com/shivamshekhar/Chrome-T-Rex-Rush: My environment is based on this great repository.
